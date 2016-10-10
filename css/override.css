@@ -1,0 +1,30 @@
+.colorchoice a{
+	color: black;
+}
+.colorchoice a:link{
+	text-decoration:none;
+}
+.colorchoice h2>a:hover{
+	color: #f74d65;
+}
+
+.foodetail img{
+	width: 720px;
+	height: 480px;
+}
+
+.dleft{
+	float: left;
+	width: 35%;
+	background-color: #f3f3f3;
+	height: 480px;
+	margin-right: 10px;
+}
+.dright{
+	float: right;
+	width: 64%;
+}
+
+.single_contact_info{
+	padding: 10px;
+}
